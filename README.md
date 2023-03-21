@@ -1,5 +1,9 @@
 # CardPile
  A Simple Card Pile system to Unity UI.
+This algorithm implementation is for creating linear segments that can be curved along the line.
+
+The entire logic of your deck is up to you. This component is capable of providing the proper position for each card you are going to use at a deck system any, but that's just it!
+Use this to give your graph implementation the proper positions, rotations, and constraints.
 
 How to use:
 1 - Create your own implementation of the**PileBehaviour**. This can be very simple to start. 
@@ -49,4 +53,6 @@ Take a look at my example: This is a simple image 50x50
 ![PrefabRef](https://i.gyazo.com/09f0c6a03d5cac9952afa56d37917f75.png)
 
 4 - Play and USE. 
-![UsingPlay](https://i.gyazo.com/2c8169d9f4275c6f70ac448e09d6e18d.mp4)
+
+
+https://i.gyazo.com/2c8169d9f4275c6f70ac448e09d6e18d.mp4
